@@ -1,2 +1,2 @@
 # checkers-mp
-Major Project - Claire's Game of Checkers
+DTC 477 Major Project - Claire's Game of Checkers
